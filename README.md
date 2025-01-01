@@ -1,4 +1,4 @@
-## Subh-Roy ebsites Designed by [DIZIVER](https://www.diziver.com)
+## Subh-Roy Websites Designed by [DIZIVER](https://www.diziver.com)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)

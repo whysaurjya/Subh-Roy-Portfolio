@@ -8,7 +8,7 @@
 
 This repository contains the codebase for Subh Roy's portfolio website, designed to showcase his skills, expertise, and professional journey. The site serves as a dynamic platform to highlight Subh's projects, achievements, and unique creative style, offering an engaging and interactive user experience.
 
-## Key Features:
+## Key Features :
 
 ● Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
 ● Service Overview: Highlights the hybrid gym offerings, including functional training, group classes, and personal coaching.
